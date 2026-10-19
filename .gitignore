@@ -1,0 +1,23 @@
+## Visual Studio cache & user files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Build outputs
+**/bin/
+**/obj/
+**/publish/
+
+## Application Logs
+**/Logs/
+*.log
+
+## Aliases
+Bai 3
+
+## Sensitive configs
+**/appsettings.Development.json
+**/appsettings.Production.json
+**/appsettings.Local.json
